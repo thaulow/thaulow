@@ -2,7 +2,7 @@
 
 <p>
   <h1 align="center">
-    <b>Hello there, I'm <a href="https://github.com/thaulow">@thomas-thaulow</a> 👋</b>
+    <b>Hello there, I'm <a href="https://github.com/thaulow">@thaulow</a> 👋</b>
   </h1>
 </p>
 
