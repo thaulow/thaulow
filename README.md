@@ -11,6 +11,6 @@
     <img src="https://img.shields.io/badge/linkedin-thaulow-0072B1?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://github.com/thaulow">
-    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-thomas-thaulow&label=visitors&color=grey&style=flat" />
+    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-thaulow&label=visitors&color=grey&style=flat" />
   </a>
 </p>
