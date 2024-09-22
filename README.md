@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/thaulow/thaulow/refs/heads/main/header.jpg)
+![](https://raw.githubusercontent.com/thaulow/thaulow/refs/heads/main/header.jpeg)
 
 <p>
   <h1 align="center">
