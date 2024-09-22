@@ -8,11 +8,6 @@
 
 [![Thaulow´s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaulow&theme=react-dark)](https://github.com/thaulow/)
 
-<p align="center">
-  <a href="https://github.com/thaulow">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thaulow&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
-  </a>
-</p>
 
 -----
 <p align="center">
