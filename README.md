@@ -1,12 +1,5 @@
 ![](https://raw.githubusercontent.com/thaulow/thaulow/refs/heads/main/header.jpeg)
-
-<p>
-  <h1 align="center">
-    <b>Hello there, I'm <a href="https://github.com/thaulow">@thaulow</a> 👋</b>
-  </h1>
-</p>
-
-[![Thaulow´s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaulow&theme=react-dark&bg_color=1f2022&color=bba178)](https://github.com/thaulow/)
+[![Thaulow´s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaulow&theme=react-dark&bg_color=1f2022&color=bba178&line=bba178)](https://github.com/thaulow/)
 
 
 -----
