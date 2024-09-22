@@ -6,7 +6,7 @@
   </h1>
 </p>
 
-[![Thaulow´s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaulow&theme=react-dark)](https://github.com/thaulow/)
+[![Thaulow´s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaulow&theme=react-dark&bg_color=1f2022&color=bba178)](https://github.com/thaulow/)
 
 
 -----
